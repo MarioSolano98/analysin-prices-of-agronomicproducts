@@ -64,7 +64,7 @@ The measuires created where:
 
  
  # Report Snapshot (Power BI DESKTOP)
-
+![dashboard_snapo](https://github.com/MarioSolano98/analyzing-prices-of-agronomicproducts/blob/main/analizing-agriculturalproductos-prices-dashboard1.png)
  
 
 # Insights
