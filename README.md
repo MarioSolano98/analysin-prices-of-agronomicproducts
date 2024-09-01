@@ -93,39 +93,24 @@ The measuires created where:
 
 ![prodcuts](https://github.com/MarioSolano98/analyzing-prices-of-agronomicproducts/blob/main/analizing-agriculturalproductos-prices-dashboard1.png)
 
+# Visualizations Created
+
+1 Percentual Grown bt Category
+![prodcuts](https://github.com/MarioSolano98/analyzing-prices-of-agronomicproducts/blob/main/Percentual%20Changes%20Line%20Chart.png)
+
+2 Category Cards
+![prodcuts](https://github.com/MarioSolano98/analyzing-prices-of-agronomicproducts/blob/main/Category%20KPI%20card.png)
+
+3. Markets and Zones
+![prodcuts](https://github.com/MarioSolano98/analyzing-prices-of-agronomicproducts/blob/main/Markets%20and%20Zones%20Map.png)
+
+4. Productos with in categories
+![prodcuts](https://github.com/MarioSolano98/analyzing-prices-of-agronomicproducts/blob/main/Product%20within%20Subcategory%20Line%20Chart.png)
+
 
 # Insights
 
-A single page report was created on Power BI Desktop & it was then published to Power BI Service.
-
-Following inferences can be drawn from the dashboard;
-
-### [1] Total Number of Customers = 129880
-
-   Number of satisfied Customers (Male) = 28159 (21.68 %)
-
-   Number of satisfied Customers (Female) = 28269 (21.76 %)
-
-   Number of neutral/unsatisfied customers (Male) = 35822 (27.58 %)
-
-   Number of neutral/unsatisfied customers (Female) = 37630 (28.97 %)
-
-
-           thus, higher number of customers are neutral/unsatisfied.
-           
-### [2] Average Ratings
-
-
-  
-  while calculating average rating, null values have been ignored as they were not relevant for some customers. 
-  
-  These ratings will change if different visual filters will be applied.  
-  
-  ### [3] Average Grown
-  
-
- ### Some other insights
-
+A 
  
 
 
